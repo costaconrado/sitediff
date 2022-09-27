@@ -1,0 +1,6 @@
+---
+- url: https://subversion.apache.org/security/
+- url: https://curl.haxx.se/docs/security.html
+- url: http://web.mit.edu/Kerberos/advisories/
+- url: https://www.samba.org/samba/history/security.html
+- url: https://www.mozilla.org/en-US/security/advisories/
