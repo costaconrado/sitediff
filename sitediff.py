@@ -3,7 +3,6 @@ import sys, getopt
 import re
 import os
 import difflib
-import requests
 import yaml
 from yaml.loader import SafeLoader
 
